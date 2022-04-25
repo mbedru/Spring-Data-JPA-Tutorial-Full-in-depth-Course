@@ -20,3 +20,6 @@
 The @JoinColumn annotation is used to specify the foreign key column in 
 the owner of the relationship. The inverse-side of the relationship sets 
 the mappedBy attribute to indicate that the relationship is owned by the other entity.
+
+https://vladmihalcea.com/the-best-way-to-use-the-manytomany-annotation-with-jpa-and-hibernate/
+https://vladmihalcea.com/the-best-way-to-map-a-onetomany-association-with-jpa-and-hibernate/
